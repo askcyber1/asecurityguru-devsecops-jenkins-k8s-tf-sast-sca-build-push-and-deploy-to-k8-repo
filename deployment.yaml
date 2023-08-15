@@ -25,8 +25,8 @@ kind: Service
 metadata:
   labels:
     app: akinbuggy
-    k8s-app: akingbuggy
-  name: akingbuggy
+    k8s-app: akinbuggy
+  name: akinbuggy
 spec:
   ports:
   - name: http
